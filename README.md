@@ -34,13 +34,14 @@ Soy desarrollador de software enfocado en la creación de aplicaciones modernas,
 Portafolio personal desarrollado en React con diseño interactivo y descarga de CV.  
 🔗 [Ver proyecto](https://yuberpaez.dev/)
 
-🔹 **Red Social**  
-Aplicación web tipo red social con funcionalidades de interacción entre usuarios (publicaciones, interacción, etc.).  
-🔗 [Ver proyecto](#)
-
 🔹 **Sistema de Gestión Documental**  
 Aplicación para la gestión y organización de documentos empresariales, con control y seguimiento.  
 🔗 [Ver proyecto](https://myjob.solutions/control-documental/public/)
+
+🔹 **Red Social**  
+Aplicación web tipo red social con funcionalidades de interacción entre usuarios (publicaciones, interacción, etc.).  
+🔗 [Ver proyecto](https://github.com/yuber-paez/social-media.git)
+
 
 ---
 
