@@ -48,8 +48,7 @@ Aplicación web tipo red social con funcionalidades de interacción entre usuari
 ## 📊 Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuber-paez&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuber-paez&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=yuber-paez&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
